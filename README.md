@@ -1,10 +1,8 @@
-Okta Homebrew Tap
--------------------
+# homebrew-tap
 
-Install the Okta CLI with
+Personal Homebrew tap.
 
-```bash
-brew cask install oktadeveloper/tap/okta
+```sh
+brew tap briandaviddavidson/tap
+brew install dashlane-auditor
 ```
-
-For more information, visit https://github.com/oktadeveloper/okta-cli
